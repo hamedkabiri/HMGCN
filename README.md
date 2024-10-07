@@ -5,7 +5,7 @@ This repository provides a reference implementation of HMGCN as described in the
 > Hamed Kabiri Kenari
 > 
 
-Available at https://doi.org/10.1145/3534678.3539482
+Available at 
 
 ## Dependencies
 Recent versions of the following packages for Python 3 are required:
